@@ -34,7 +34,7 @@ The program accepts the following commands:
 - help
   - lists available commands
   
-
+*NOTE*: If running the finalproj_test.py file - this files is meant to test certain interactive functions within the program. At the end of certain tests, it will trigger the interative command. Enter "exit" each time it appears to move on to the next function and finish the test
 
 DATA SOURCES USED:
 
